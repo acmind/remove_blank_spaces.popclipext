@@ -1,0 +1,2 @@
+# remove_blank_spaces.popclipext
+一个自动去除文本中不必要回车和空格的popclip插件
